@@ -1,7 +1,7 @@
-package Steps;
+package steps;
 
-import Configuration.propertiesSetUp;
-import Methods.APIMethods;
+import configuration.propertiesSetUp;
+import methods.APIMethods;
 import io.cucumber.java.ru.Затем;
 import io.cucumber.java.ru.И;
 import io.cucumber.java.ru.Когда;

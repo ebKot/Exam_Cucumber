@@ -1,7 +1,7 @@
-package Steps;
+package steps;
 
-import Configuration.propertiesSetUp;
-import Methods.APIMethods;
+import configuration.propertiesSetUp;
+import methods.APIMethods;
 import io.cucumber.java.ru.Когда;
 import io.qameta.allure.Step;
 import io.restassured.http.ContentType;

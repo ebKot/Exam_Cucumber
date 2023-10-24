@@ -1,10 +1,10 @@
-package Assertions;
+package assertions;
 
 import io.cucumber.java.ru.Тогда;
 import io.qameta.allure.Step;
 import org.junit.jupiter.api.Assertions;
 
-import static Steps.API2Steps.*;
+import static steps.API2Steps.*;
 
 public class API2Asserts {
     @Step("Проверить response на валидность.")

@@ -1,4 +1,4 @@
-package Hooks;
+package hooks;
 
 import io.cucumber.java.Before;
 import io.qameta.allure.restassured.AllureRestAssured;

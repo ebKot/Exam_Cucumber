@@ -1,11 +1,11 @@
-package Assertions;
+package assertions;
 
 import io.cucumber.java.ru.И;
 import io.cucumber.java.ru.Тогда;
 import io.qameta.allure.Step;
 import org.junit.jupiter.api.Assertions;
 
-import static Steps.API1Steps.*;
+import static steps.API1Steps.*;
 
 public class API1Asserts {
     @Step("Проверить, второй персонаж той же расы как и первый?")

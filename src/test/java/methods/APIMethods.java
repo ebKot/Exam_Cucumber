@@ -1,4 +1,4 @@
-package Methods;
+package methods;
 
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
