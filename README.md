@@ -1,6 +1,6 @@
 # Экзаменационная работа. Часть 2
 
-<img src="https://i.imgur.com/GBydWtx.png" alt="Logos"/>
+<img src="https://i.imgur.com/1kJARPo.png" alt="Logos"/>
 
 ## Разработать проект автотестов с использованием Cucumber, Maven, Rest Assured, Allure
 
