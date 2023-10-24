@@ -8,6 +8,7 @@ target/
 .idea
 .build
 .target
+test-output
 *.iws
 *.iml
 *.ipr
